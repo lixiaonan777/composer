@@ -1,0 +1,16 @@
+{
+    "name": "lixiaonan777/composer",
+    "description": "a test profile",
+    "type": "project",
+    "require": {
+        "houdunwang/hdphp": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lixiaonan",
+            "email": "songnet727@163.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
