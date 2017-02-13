@@ -3,7 +3,7 @@
     "description": "a test profile",
     "type": "project",
     "require": {
-        "houdunwang/hdphp": "*"
+        
     },
     "license": "MIT",
     "authors": [
